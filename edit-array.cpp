@@ -21,7 +21,7 @@ int main()
 		nums[index] = userInput;
 	}
 	while(index < 10 && index > -1);
-	std::cout << "\N \N":
+	std::cout << "\n \n";
 	std::cout << "Index out of range. Exit. ";
 	return 0;
 }
